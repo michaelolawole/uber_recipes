@@ -1,2 +1,2 @@
 # uber_recipes
-Uber Recipes, our one stop app for all things recipes
+Uber Recipes, your one stop app for all things recipes
